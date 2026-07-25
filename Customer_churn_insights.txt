@@ -1,0 +1,20 @@
+1.High level Customer Demographics
+	1.median age:The typical customer is 45 years old indicates a middle aged target demographic.
+	2.customer scale:the data covers a count of 919 time period with a total revenue generated of 1.30 million dollar.
+	3.gender balance:count of churn new by gender chart suggest that churn is relatively evenly distributed between male and female customers,
+	though the female count is slightly high in this.
+	
+2.Revenue and age correlation
+	1. revenue sweet spot:Both "sum of monthly charges by age" and "count of churn_new by age" shows a bell shaped curve which means normal distribution peaks
+	between the ages of 40 and 60. This tells us that middle aged customers are highly specific source of revenue and this age group most likely to churn so 
+	company should take retention efforts particularly for this segement.
+	2.Lifetime value: There is a stark difference in "max of total charges by churn" chart.Customers who do not churn have higher maximum total charges compared 
+	to those who do. This is because the longer a customer stays(their tenure),the more monthly charges they accumulate,thereby increasing their overall lifetime
+	value to the company.
+3.Contract and service trends
+	1. contract composition:The pie chart for "sum of Total charges by contract type" shows a mix of Month-to-Month,one-year,and two year contracts.
+	while month-to-month is a large segment.
+	2.service impact:"The count of internet service by churn" represents that customer base is split between Fibre optic,DSL,and those with no internet service.
+
+SUMMARY:Retention strategies should likely focus on the 40-60 age demographic as they are highest contributors to monthly revenue but also show high churn counts.
+	Additionally,shifting customers from month-to-month to longer-term contracts can be explored to mirror the higher total charges seen in non-churning customers.
