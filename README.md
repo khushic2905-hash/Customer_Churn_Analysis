@@ -50,6 +50,7 @@ This project analyzes customer churn data using SQL and Power BI to identify chu
 - customer_churn_dashboard_powerBI - dashboard ss
 - customer_churn_insights.txt - insights based on customer churn analysis
 - Customer_churn_data.csv - dataset
+- customer_churn_dashboard - power bi dashboard
 
 
 ## Dataset
