@@ -44,12 +44,12 @@ This project analyzes customer churn data using SQL and Power BI to identify chu
 
 
 ##  Project Files
-- `customer_churn_analysis.sql` – SQL queries
-- `Customer_Churn_Dashboard.pbix` – Power BI dashboard
-- `dashboard.png` – Dashboard screenshot
-- `customer_churn_dataset.csv` – Dataset
+- `CustomerChurnAnalysis.sql - sql code
+- customer_churn_dashboard_powerBI - dashboard ss
+- customer_churn_insights.txt - insights based on customer churn analysis
+- Customer_churn_data.csv - dataset
 
 
-## 📚 Dataset
+## Dataset
 - **Source:** https://www.kaggle.com/datasets/abdullah0a/telecom-customer-churn-insights-for-analysis
 - **License:** MIT License
