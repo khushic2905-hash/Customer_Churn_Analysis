@@ -38,6 +38,8 @@ This project analyzes customer churn data using SQL and Power BI to identify chu
 <img width="388" height="229" alt="Countofchurnage" src="https://github.com/user-attachments/assets/2b5e7dce-8451-4bec-8c42-56e3bfa14cf2" />
 <img width="506" height="268" alt="MaxTotalChargeschurn" src="https://github.com/user-attachments/assets/fdc40af4-1fd1-4385-a091-719210120bbb" />
 <img width="891" height="492" alt="Customer_churn_dashboard_powerBI" src="https://github.com/user-attachments/assets/4f20fd41-7e20-4eec-be46-02494c7f0be4" />
+<img width="1166" height="538" alt="powerQuery" src="https://github.com/user-attachments/assets/fb9f934a-4444-4243-b2e4-2223ef141641" />
+
 
 
 
