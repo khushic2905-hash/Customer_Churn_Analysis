@@ -33,6 +33,16 @@ This project analyzes customer churn data using SQL and Power BI to identify chu
 - sum of total charges by contract type
 - count of internet service by churn
 
+## screenshots:
+<img width="524" height="265" alt="MonthChargeage" src="https://github.com/user-attachments/assets/2211b338-97c3-4866-8c0d-7b6171800811" />
+<img width="388" height="229" alt="Countofchurnage" src="https://github.com/user-attachments/assets/2b5e7dce-8451-4bec-8c42-56e3bfa14cf2" />
+<img width="506" height="268" alt="MaxTotalChargeschurn" src="https://github.com/user-attachments/assets/fdc40af4-1fd1-4385-a091-719210120bbb" />
+<img width="891" height="492" alt="Customer_churn_dashboard_powerBI" src="https://github.com/user-attachments/assets/4f20fd41-7e20-4eec-be46-02494c7f0be4" />
+
+
+
+
+
 ##  Project Files
 - `customer_churn_analysis.sql` – SQL queries
 - `Customer_Churn_Dashboard.pbix` – Power BI dashboard
